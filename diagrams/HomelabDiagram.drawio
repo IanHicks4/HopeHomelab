@@ -1,0 +1,66 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
+  <diagram name="Page-1" id="atzQ8URdzsjIha3aMZcT">
+    <mxGraphModel dx="2946" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T3OZKwy20Lfs6WDELAb2-3" edge="1" parent="1" source="T3OZKwy20Lfs6WDELAb2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" target="T3OZKwy20Lfs6WDELAb2-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T3OZKwy20Lfs6WDELAb2-1" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" value="" vertex="1">
+          <mxGeometry height="60" width="95.24" x="377" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T3OZKwy20Lfs6WDELAb2-12" edge="1" parent="1" source="T3OZKwy20Lfs6WDELAb2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="T3OZKwy20Lfs6WDELAb2-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T3OZKwy20Lfs6WDELAb2-13" edge="1" parent="1" source="T3OZKwy20Lfs6WDELAb2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="T3OZKwy20Lfs6WDELAb2-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="385" y="260" />
+              <mxPoint x="165" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T3OZKwy20Lfs6WDELAb2-2" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="385" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="T3OZKwy20Lfs6WDELAb2-6" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Fruit-2455/Fruit_iconfree_Filled_Outline_raspberry-healthy-organic-food-fruit_icon-896.svg" value="" vertex="1">
+          <mxGeometry height="72" width="72" x="650" y="327" as="geometry" />
+        </mxCell>
+        <mxCell id="T3OZKwy20Lfs6WDELAb2-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ISP Modem/Router" vertex="1">
+          <mxGeometry height="30" width="60" x="395" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="T3OZKwy20Lfs6WDELAb2-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Raspberry Pi 4" vertex="1">
+          <mxGeometry height="30" width="60" x="656" y="297" as="geometry" />
+        </mxCell>
+        <mxCell id="T3OZKwy20Lfs6WDELAb2-9" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.linux_server;" value="" vertex="1">
+          <mxGeometry height="86" width="70" x="125" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="T3OZKwy20Lfs6WDELAb2-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Dell OptiPlex 7080" vertex="1">
+          <mxGeometry height="30" width="60" x="135" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="T3OZKwy20Lfs6WDELAb2-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Internet" vertex="1">
+          <mxGeometry height="30" width="60" x="394.62" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="T3OZKwy20Lfs6WDELAb2-14" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Business___Finance_glyph_V3-2605/619_Computer_desktop_gaming_pc_personal-738.svg" value="" vertex="1">
+          <mxGeometry height="106" width="106" x="371.62" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="T3OZKwy20Lfs6WDELAb2-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PC" vertex="1">
+          <mxGeometry height="30" width="60" x="395" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="T3OZKwy20Lfs6WDELAb2-24" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Services" vertex="1">
+          <mxGeometry height="200" width="200" x="65" y="416" as="geometry" />
+        </mxCell>
+        <mxCell id="T3OZKwy20Lfs6WDELAb2-26" parent="T3OZKwy20Lfs6WDELAb2-24" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Caddy&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Jellyfin&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Arr stack&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Gluetun&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;qBittorrent&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;DDNS&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="145" width="150" x="25" y="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="T3OZKwy20Lfs6WDELAb2-25" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Services" vertex="1">
+          <mxGeometry height="200" width="200" x="586" y="406" as="geometry" />
+        </mxCell>
+        <mxCell id="T3OZKwy20Lfs6WDELAb2-27" parent="T3OZKwy20Lfs6WDELAb2-25" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Pihole&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Unbound&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="70" y="85" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
